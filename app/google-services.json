@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905556814750",
+    "firebase_url": "https://friends-26ccd.firebaseio.com",
+    "project_id": "friends-26ccd",
+    "storage_bucket": "friends-26ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905556814750:android:7f68fb3c7e013a03",
+        "android_client_info": {
+          "package_name": "com.example.hazardous_friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905556814750-8is45sk9o5a27n6m2qljugbtc4hf73l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuZawfstHzNaZe3apTgAfAFUIp_uEsns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905556814750-8is45sk9o5a27n6m2qljugbtc4hf73l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
